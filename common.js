@@ -95,43 +95,43 @@
     if(yes.length == 0) {
       // Yesの数が、0個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="http://www2.chem.osakafu-u.ac.jp/ohka/ohka2/member/member_img/photo_hayashi.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="http://www2.chem.osakafu-u.ac.jp/ohka/ohka2/member/member_img/photo_hayashi.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 1) {
 			// Yesの数が、1個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 2) {
 			// Yesの数が、2個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 3) {
 			// Yesの数が、3個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 4) {
 			// Yesの数が、4個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 5) {
 			// Yesの数が、5個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://d3ukgu32nhw07o.cloudfront.net/article/img1_file62626dac25299.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://d3ukgu32nhw07o.cloudfront.net/article/img1_file62626dac25299.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 6) {
 			// Yesの数が、6個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://d3ukgu32nhw07o.cloudfront.net/article/img1_file62626dac25299.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://d3ukgu32nhw07o.cloudfront.net/article/img1_file62626dac25299.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 7) {
 			// Yesの数が、7個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 8) {
 			// Yesの数が、8個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 9) {
 			// Yesの数が、9個の時
 			$(".ansewer__title").text("無機研の卵のあなたには「」がオススメです！");
-			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>研究内容新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__txt").html('<img src="https://static.horiba.com/fileadmin/Horiba/_processed_/d/a/csm_202111215_TF_jp_01_a95651dc86.jpg"><br><br>【研究内容】新しい機能性無機材料の設計、合成、特性、構造、応用について研究を行っています。特に、 固体電解質材料（リチウム、ナトリウム、水酸化物イオン伝導体）の開発、液相法や気相法を用いたイオニクス固体界面の構築、全固体リチウム電池をはじめとする全固体エネルギーデバイスの開発について研究しています。『』<a href="https://mobile.twitter.com/omu_appliedchem"; rel="nofollow ugc">詳細はコチラ！</a>');
     }
   }
 
